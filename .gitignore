@@ -1,0 +1,8 @@
+# composer dependencies
+/vendor/
+
+#Environment variables for the application
+.env
+
+.vscode/
+*.log
